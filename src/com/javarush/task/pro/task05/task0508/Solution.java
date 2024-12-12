@@ -19,6 +19,8 @@ public class Solution {
             strings[a] = scanner.nextLine();
         }
 
+        // решение которое меня вынудили написать, чтобы валидатор его принял
+
         for (int i = 0; i < strings.length; i++) {
             String currentString = strings[i];
             for (int j = i + 1; j < strings.length; j++) {
@@ -33,6 +35,7 @@ public class Solution {
         }
 
         /*
+        Мое решение
 
         for (int count = 0; count < strings.length; count++) {
             for (int b = 1; b < strings.length; b++) {
