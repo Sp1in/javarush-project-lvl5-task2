@@ -6,6 +6,7 @@ import java.util.Arrays;
 Выводим двумерные массивы
 
 Реализуй метод main(String[]), который выводит массивы strings и ints в консоли c помощью метода Arrays.deepToString(Object[][]).
+
 */
 
 public class Solution {
