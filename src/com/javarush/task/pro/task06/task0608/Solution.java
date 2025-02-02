@@ -12,6 +12,7 @@ package com.javarush.task.pro.task06.task0608;
 Требования:
 •	Должен быть создан метод public static long cube(long).
 •	Метод cube() должен возвращать результат возведения переданного ему числа в третью степень.
+
 */
 
 public class Solution {
